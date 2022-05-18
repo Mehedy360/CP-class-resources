@@ -5,13 +5,13 @@ int main(){
     cin>>w;
     if(w==2)
     {
-        cout<<"No"
+        cout<<"No";
     }
     else if(w%2==0){
-        cout<<"yes"
+        cout<<"yes";
     }
     else if{
-        cout<<"No"
+        cout<<"No";
     }
     return 0;
 }
